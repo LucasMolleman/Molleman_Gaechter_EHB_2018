@@ -13,4 +13,6 @@ Results on participants' social learning strategies reported in the main text ar
 
 The names of the other files refer to the corresponding display item. Code is commented in the files. 
 
+The .zip file contains all files together, for downloading everyting in one go.
+
 For any further questions on these data or analysis code, please contact Lucas Molleman (molleman@mpib-berlin.mpg.de)
