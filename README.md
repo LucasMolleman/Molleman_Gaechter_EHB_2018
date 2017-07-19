@@ -1,7 +1,7 @@
-# Molleman_Gaechter_NHB_submission
-Data and code for 'Culture influences social learning in cooperative decision making'
+# Molleman_Gaechter_social_learning_submission
+Data and code for 'Societal background influences social learning in cooperative decision making'
 
-The manuscript has been submitted to Nature Human Behaviour.
+The manuscript has been submitted for review.
 
 This Repository contains three data files:
 - data_decisions.txt, the raw data from the participants' decisions in the experiments
