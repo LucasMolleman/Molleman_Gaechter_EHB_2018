@@ -9,10 +9,10 @@ This Repository contains three data files:
 - Full data set.xlsx, an Excel sheet containing the above two files, plus a legend explaining the meaning of the variables
 
 Further, this folder contains the analysis files (R-codes) for the results reported in the main text and in the Supplementary Information. 
-Results on participants' social learning strategies reported in the main text are based on the code 'Statistics reported in the main text.r'. The questionnaire items on collectivist values are analysed in 'Statistical check of collectivism'. 
+The questionnaire items on collectivist values are analysed in 'Statistical check of collectivism'. 
 
 The names of the other files refer to the corresponding display item. Code is commented in the files. 
 
-The .zip file contains all files together, for downloading everyting in one go.
+The .zip file contains all files together, for downloading everything in one go.
 
 For any further questions on these data or analysis code, please contact Lucas Molleman (molleman@mpib-berlin.mpg.de)
