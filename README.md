@@ -1,7 +1,5 @@
-# Molleman_Gaechter_social_learning_submission
-Data and code for 'Societal background influences social learning in cooperative decision making'
-
-The manuscript has been submitted for review.
+# Molleman_Gaechter_EHB_2018
+Data and code for 'Societal background influences social learning in cooperative decision making'. Evolution and Human Behavior (2018)
 
 This Repository contains three data files:
 - data_decisions.txt, the raw data from the participants' decisions in the experiments
