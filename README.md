@@ -13,4 +13,4 @@ The names of the other files refer to the corresponding display item. Code is co
 
 The .zip file contains all files together, for downloading everything in one go.
 
-For any further questions on these data or analysis code, please contact Lucas Molleman (molleman@mpib-berlin.mpg.de)
+For any further questions on these data or analysis code, please contact Lucas Molleman (lucasmolleman@gmail.com)
